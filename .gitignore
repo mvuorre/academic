@@ -6,3 +6,7 @@
 public/
 jsconfig.json
 node_modules/
+
+# R(Studio) & Blogdown
+*_cache/
+.Rproj.user

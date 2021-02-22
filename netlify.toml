@@ -14,3 +14,13 @@
 
 [context.branch-deploy]
   command = "hugo --gc --minify -b $DEPLOY_PRIME_URL"
+
+[[redirects]]
+  from = "post/2017/10/30/bayesian-estimation-of-signal-detection-theory-models-part-4/"
+  to = "post/2017/10/09/bayesian-estimation-of-signal-detection-theory-models/"
+  force = true
+
+[[redirects]]
+  from = "post/2017/01/19/better-forest-plots-from-meta-analytic-models-estimated-with-brms/"
+  to = "post/2016/09/29/meta-analysis-is-a-special-case-of-bayesian-multilevel-modeling/"
+  force = true

@@ -7,9 +7,9 @@ widget: pages
 headless: true
 
 # Order that this section appears on the page.
-weight: 90
+weight: 20
 
-title: Recent Publications
+title: Publications
 subtitle: ''
 
 content:
@@ -38,5 +38,5 @@ design:
 ---
 
 {{% callout note %}}
-Quickly discover relevant content by [filtering publications](./publication/).
+View my publications on [ORCID](https://orcid.org/0000-0001-5052-066X), [Zotero](https://www.zotero.org/mvuorre) or [Google Scholar](https://scholar.google.com/citations?hl=en&user=I4DSy-8AAAAJ&view_op=list_works&sortby=pubdate).
 {{% /callout %}}
